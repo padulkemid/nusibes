@@ -1,6 +1,7 @@
 ## Stacks
 I want to use some of these below i think:
-- Echo
+- Echo ✅ 
+- Viper to use configs(?)
 - Templ (should I use Templ? since Echo already buffed for templates)
 - HTMX (ofc)
 - any retro css / stylin atrributes 
