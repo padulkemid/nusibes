@@ -15,7 +15,12 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+.vscode/
+__debug_bin
+.idea/*
+tmp/
+dist/
 
 # Go workspace file
 go.work
